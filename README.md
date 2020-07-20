@@ -25,7 +25,7 @@
 
 ---
 
-### Made with :female-technologist: using
+### Made on :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
 ### Made with :heart: by
