@@ -1,6 +1,6 @@
 # :iphone: Effortless Distancing - Stay Safe Effortlessly :mask:
 
-**2020 HighTechU Academy - Virtual Pilot** 
+**A Project Created during the 2020 HighTechU ECE Virtual Skills Academy Pilot** 
 
 ---
 
