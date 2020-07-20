@@ -1,4 +1,4 @@
-# Effortless Distancing - Stay Safe Effortlessly
+# :iphone: Effortless Distancing - Stay Safe Effortlessly :mask:
 
 **2020 HighTechU Academy - Virtual Pilot** 
 
