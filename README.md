@@ -21,7 +21,8 @@
 ## **Pitch Presentation**
 [Download the Presentation](/pitch)
 
-![](/img/pitch.png) 
+![](/img/pitch.png)
+
 ---
 
 ### Made with
