@@ -25,8 +25,8 @@
 
 ---
 
-### Made with
+### Made with :female-technologist: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
-### Made by
+### Made with :heart: by
 Daniel, Atif, Ava and Eya
