@@ -19,7 +19,7 @@
 ---
 
 ## **Pitch Presentation**
-[View the Presentation](https://github.com/hightechu/hightechu-academy-effortlessdistancing/blob/master/pitch/effortlessdistancing-pitchdeck.pdf) | [Download the Presentation](/pitch)
+[View the Pitch](https://github.com/hightechu/hightechu-academy-effortlessdistancing/blob/master/pitch/effortlessdistancing-pitchdeck.pdf) | [Download the Pitch](/pitch)
 
 ![](/img/pitch.png)
 
