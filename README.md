@@ -5,21 +5,21 @@
 ---
 
 ## **3D Model**
-[Download the Model](/model) | [View the Model]()
+[View the Model]() | [Download the Model](/model)
 
 ![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
-[Download the Circuit](/circuit) | [View the Circuit]()
+[View the Circuit]() | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 
 ---
 
 ## **Pitch Presentation**
-[Download the Presentation](/pitch)
+[View the Presentation](https://github.com/hightechu/hightechu-academy-effortlessdistancing/blob/master/pitch/effortlessdistancing-pitchdeck.pdf) | [Download the Presentation](/pitch)
 
 ![](/img/pitch.png)
 
