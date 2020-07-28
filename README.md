@@ -5,7 +5,7 @@
 ---
 
 ## **Circuit Design**
-[View the Circuit]() | [Download the Circuit](/circuit)
+[View the Circuit](https://www.tinkercad.com/things/4GrQICk91Uv-effortless-distancing-circuit) | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 
