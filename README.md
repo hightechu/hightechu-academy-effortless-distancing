@@ -12,7 +12,7 @@
 ---
 
 ## **3D Model**
-[View the Model]() | [Download the Model](/model)
+[View the Model](https://www.tinkercad.com/things/6Nc8nQGNaiQ-effortless-distancing-cad) | [Download the Model](/model)
 
 ![](/img/model.png)
 
