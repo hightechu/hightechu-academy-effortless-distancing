@@ -4,17 +4,17 @@
 
 ---
 
-## **3D Model**
-[View the Model]() | [Download the Model](/model)
-
-![](/img/model.png)
-
----
-
 ## **Circuit Design**
 [View the Circuit]() | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
+
+---
+
+## **3D Model**
+[View the Model]() | [Download the Model](/model)
+
+![](/img/model.png)
 
 ---
 
