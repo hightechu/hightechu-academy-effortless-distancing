@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+logo: https://avatars2.githubusercontent.com/u/37221612?s=200&v=4
 show_downloads: true
 plugins:
   - jemoji
